@@ -1,27 +1,100 @@
-# TreinamentoAngular
+<h1 align="center">
+  Painel-ADM
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wander27rodrigues/Painel-Adm?style=flat-square">
 
-## Development server
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wander27rodrigues/Painel-Adm?style=flat-square">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+  <a href="https://github.com/wander27rodrigues/Painel-Adm/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wander27rodrigues/Painel-Adm?style=flat-square">
+  </a>
+  
+  
+<p align="center">
+  <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Licença">Licença</a>
+</p>
 
-## Code scaffolding
+</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+> Status do Projeto: ⚠️  (desenvolvimento)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 💻 Sobre o projeto
+Esse é um projeto que realizei para treinar antes de implementar no meu tcc
 
-## Running end-to-end tests
+## ⚙️ Funcionalidades
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- [x] Transições
 
-## Further help
+## 🛠 Tecnologias
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+As seguintes ferramentas foram usadas na construção do projeto:
+
+-   HTML
+-   CSS
+-   ANGULAR 12
+## 🔖 Layout
+<p align="center">
+  <img alt="crud" src="#" width="60%">
+</p>
+
+## Tarefas 
+
+-   [X] Criação de Estrutura
+-   [X] Add  layout
+-   [X] Tratamento de Erros
+
+
+### ✔️ Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### :arrow_forward: Rodando 
+
+```bash
+
+# Clone este repositório
+$ git clone git@github.com:Wander27Rodrigues/Painel-Adm.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Painel-Adm
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
+
+```
+## 💪 Como contribuir no projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+### Autor
+---
+
+<a href="https://wander27rodrigues.github.io/#home">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48796830?v=4" width="10%;" alt=""/>
+ <br />
+
+Feito com ❤️ por Wander Souza 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Wander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wander-souza/)](https://www.linkedin.com/in/wander-souza/) 
+[![Outlook Badge](https://img.shields.io/badge/-wanderrodrigues_@outlook.com-blue?style=flat-square&logo=Outlook&logoColor=white&link=mailto:wanderrodrigues_@outlook.com)](mailto:wanderrodrigues_@outlook.com)
