@@ -27,7 +27,7 @@
 
 
 ## 💻 Sobre o projeto
-Esse é um projeto que realizei para treinar antes de implementar no meu tcc
+Single Page para mostrar um painel de administrador. Com dados de resumo, consulta e faturamento.
 
 ## ⚙️ Funcionalidades
 
